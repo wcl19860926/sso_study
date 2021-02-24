@@ -12,6 +12,9 @@
         <module>auth_server</module>
         <module>client_servic001</module>
         <module>client_service002</module>
+        <module>sso_demo01</module>
+        <module>sso_jwt_demo02</module>
+        <module>sso_jwt_demo03</module>
     </modules>
     <properties>
         <java.version>1.8</java.version>
