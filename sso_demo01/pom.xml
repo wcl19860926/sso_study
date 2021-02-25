@@ -9,6 +9,12 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>sso_demo01</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>oauth_server</module>
+        <module>sso_system01</module>
+        <module>sso_system02</module>
+    </modules>
 
 
 </project>
